@@ -1,3 +1,7 @@
+# UI Screenshots
+
+![Payment Details](https://user-images.githubusercontent.com/53207574/93167642-ae264c80-f73e-11ea-8a15-29898dde79a9.png)
+
 # Angular7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
